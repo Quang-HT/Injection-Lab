@@ -1,0 +1,11 @@
+client/node_modules/
+client/dist/
+server/.venv/
+server/__pycache__/
+server/app/__pycache__/
+server/app/data/__pycache__/
+server/app/routes/__pycache__/
+server/app/services/__pycache__/
+server/instance/
+*.pyc
+.DS_Store
